@@ -1,0 +1,73 @@
+{
+  "ADS": {
+
+
+    "networkAd": "xx",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "0ca7af64937f833d",
+    "max_banner": "2a86b2c7330049b5",
+    "Native_max": "c3d68868c33b72f7",
+
+    "startapp_id": "139480955",
+
+    "show_cpa": false,
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+    "cpa_button_text": "Get It Now!",
+  
+    
+
+    "Image_cpaLink" : "",
+    "LinkCpa": "",
+    
+
+    "ImageUrl_banner": "https://iili.io/HstUSZG.png",
+    "LinkCpa_banner": "",
+    "ImageUrl_banner1": "https://iili.io/HstUSZG.png",
+    "LinkCpa_banner1": "",
+    "ImageUrl_banner2": "https://iili.io/HstUSZG.png",
+    "LinkCpa_banner2": "",
+
+    "Image_exit": "https://iili.io/HstUSZG.png",
+    "link_exit": "",
+
+    "privacy" : "",
+    "url_exit": "",
+    "url_bottom_coins": "",
+
+    "Text_tips1": "Performance Tips",
+    "Text_tips2": " App Recommendations and Reviews",
+    "Text_tips3": "Welcome Our APP ",
+    "Text_tips4": "Task  and Productivity",
+    "Text_tips5": " Problem Solving",
+    "Text_tips6": " Education and Resources ",
+    "Text_tips7": "Security and Privacy Tools",
+    "Text_tips8": " Community and Discussion",
+
+
+    "Text_title1": "O site Pesquisa Remunerada é totalmente diferente dos outros sites que você já conhece",
+    "Text_title2": "A melhor parte deste novo site é que você pode ganhar dinheiro rapidamente online apenas fornecendo feedback de maneira muito simples. ",
+    "Text_title3": "Basta marcar quando o nome das empresas aparecerem para receber alguns centavos, que são acumulados em seu saldo. No site Pesquisa Remunerada, é necessário acumular pelo menos R$5 para receber via Pix. Além disso, só é possível fazer retiradas uma vez por mê",
+    "Text_title4": "Neste vídeo, ensino de forma clara e objetiva várias dicas valiosas para evitar bloqueios em sua conta. Sempre leia as perguntas, pois existem pegadinhas para testar sua atenção. Nunca marque sim caso a empresa não tenha sido fundada no Brasil",
+    "Text_title5": "this app prioritizes the security and privacy of its users",
+    "Text_title6": "Não, Opinião Remunerada esta funcionando normalmente ",
+    "Text_title7": " app offers a robust portfolio management  ",
+    "Text_title8": "app in history and place",
+
+
+    "Text_buttonCoins" : "Male ",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "True",
+
+    "Click_inter": "0"
+
+  }
+}
